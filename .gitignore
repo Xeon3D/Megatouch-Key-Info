@@ -1,0 +1,29 @@
+# Whitelist: only these paths are ever committed. Everything else in the workspace - key dumps,
+# Merit's executables, disk-image extracts, NVRAM files, analysis output, build files - stays local.
+/*
+!/.gitignore
+!/README.md
+!/keyinfo.md
+!/keyinfo-human.md
+!/Docs/
+!/scripts/
+!/Run/
+!/share/
+
+# build output and caches
+**/__pycache__/
+*.pyc
+/Run/*.exe
+
+# never commit key material, even inside a whitelisted folder
+*_full_*
+*_decrypted_*
+*_encrypted_*
+*_multikey_*
+*.key
+*.bin
+*.dat
+*.DAT
+*.img
+key_out
+laser_out

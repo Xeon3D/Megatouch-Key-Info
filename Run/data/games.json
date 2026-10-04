@@ -1,0 +1,1850 @@
+{
+"ION": {
+"0": {
+"tag": "g_solitaire",
+"desc": "GREAT SOLITAIRE"
+},
+"1": {
+"tag": "g_run21",
+"desc": "RUN21"
+},
+"2": {
+"tag": "g_royal",
+"desc": "ROYAL FLASH"
+},
+"3": {
+"tag": "g_trivia",
+"desc": "TRIVIA WHIZ"
+},
+"4": {
+"tag": "g_match_removed",
+"desc": ""
+},
+"5": {
+"tag": "g_memoree_removed",
+"desc": ""
+},
+"6": {
+"tag": "g_tritowers",
+"desc": "TRI-TOWERS"
+},
+"7": {
+"tag": "g_fourplay",
+"desc": "FOURPLAY"
+},
+"8": {
+"tag": "g_conquest",
+"desc": "CONQUEST"
+},
+"9": {
+"tag": "g_strip",
+"desc": "STRIP CLUB"
+},
+"10": {
+"tag": "g_11up",
+"desc": "ELEVEN UP"
+},
+"11": {
+"tag": "g_myst",
+"desc": "MYST. PHRAZE"
+},
+"12": {
+"tag": "g_bball",
+"desc": "HOOP JONES"
+},
+"13": {
+"tag": "g_zip21",
+"desc": "ZIP21"
+},
+"14": {
+"tag": "g_checkerz",
+"desc": "CHECKERZ"
+},
+"15": {
+"tag": "g_qmatch",
+"desc": "QUIK MATCH"
+},
+"16": {
+"tag": "g_psolitaire",
+"desc": "PWR SOLITAIRE"
+},
+"17": {
+"tag": "g_pixmix",
+"desc": "PIX MIX"
+},
+"18": {
+"tag": "g_phunt",
+"desc": "PHOTOHUNT"
+},
+"19": {
+"tag": "g_quikcell",
+"desc": "QUICKCELL"
+},
+"20": {
+"tag": "g_shanghai",
+"desc": "TAI-PLAY"
+},
+"21": {
+"tag": "g_golf",
+"desc": "GOLF"
+},
+"22": {
+"tag": "g_tennis",
+"desc": "TENNIS"
+},
+"23": {
+"tag": "g_ttshboard",
+"desc": "PUCK SHOT"
+},
+"24": {
+"tag": "g_pileon_removed",
+"desc": ""
+},
+"25": {
+"tag": "g_take2",
+"desc": "TAKE 2"
+},
+"26": {
+"tag": "g_dsol",
+"desc": "DBL SOLITAIRE"
+},
+"27": {
+"tag": "g_mltrivia",
+"desc": "LINK TRIVIA"
+},
+"28": {
+"tag": "g_stritowers",
+"desc": "TRI-CASTLES"
+},
+"29": {
+"tag": "g_s11up",
+"desc": "ELEVEN BALL"
+},
+"30": {
+"tag": "g_srun21",
+"desc": "CHUG21"
+},
+"31": {
+"tag": "g_stake2",
+"desc": "PAIR OFF"
+},
+"32": {
+"tag": "g_triples_removed",
+"desc": ""
+},
+"33": {
+"tag": "g_newtriv",
+"desc": "POWER TRIVIA"
+},
+"34": {
+"tag": "g_h2hphunt_removed",
+"desc": ""
+},
+"35": {
+"tag": "g_tflip_removed",
+"desc": ""
+},
+"36": {
+"tag": "g_h2htrivia",
+"desc": "H2H TRIVIA"
+},
+"37": {
+"tag": "g_sflip_removed",
+"desc": ""
+},
+"38": {
+"tag": "g_ssol_removed",
+"desc": ""
+},
+"39": {
+"tag": "g_spsol_removed",
+"desc": ""
+},
+"40": {
+"tag": "g_squikc_removed",
+"desc": ""
+},
+"41": {
+"tag": "g_pmem",
+"desc": "SNAPSHOT"
+},
+"42": {
+"tag": "g_lout",
+"desc": "LOOK OUT"
+},
+"43": {
+"tag": "g_mmash",
+"desc": "MONSTER MADNESS"
+},
+"44": {
+"tag": "g_soccer",
+"desc": "GOOOAL"
+},
+"45": {
+"tag": "g_airhockey",
+"desc": "AIR SHOT"
+},
+"46": {
+"tag": "g_nine",
+"desc": "PHARAOH'S NINE"
+},
+"47": {
+"tag": "g_pilehigh_removed",
+"desc": ""
+},
+"48": {
+"tag": "g_wild8",
+"desc": "WILD 8's"
+},
+"49": {
+"tag": "g_football",
+"desc": "QB ZONE"
+},
+"50": {
+"tag": "g_wildape",
+"desc": "WILD APE's"
+},
+"51": {
+"tag": "g_quintzee",
+"desc": "QUINTZEE"
+},
+"52": {
+"tag": "g_ddcjumblex_removed",
+"desc": ""
+},
+"53": {
+"tag": "g_ddcwjumble_removed",
+"desc": ""
+},
+"54": {
+"tag": "g_snowball_removed",
+"desc": ""
+},
+"55": {
+"tag": "g_safari",
+"desc": "WORD SAFARI"
+},
+"56": {
+"tag": "g_spades",
+"desc": "OUTER SPADES"
+},
+"57": {
+"tag": "g_hearts",
+"desc": "CRAZY HEARTS"
+},
+"58": {
+"tag": "g_gameshow",
+"desc": "QUIZ SHOW"
+},
+"59": {
+"tag": "g_boxxi",
+"desc": "BOXXI"
+},
+"60": {
+"tag": "g_eboxxi",
+"desc": "FOXY BOXXI"
+},
+"61": {
+"tag": "g_moondrop",
+"desc": "MOONDROP"
+},
+"62": {
+"tag": "g_euchre",
+"desc": "EUCHRE NIGHTS"
+},
+"63": {
+"tag": "g_31",
+"desc": "BATTLE 31"
+},
+"64": {
+"tag": "g_gemswipe_removed",
+"desc": ""
+},
+"65": {
+"tag": "g_backjammin",
+"desc": "BACK JAMMIN"
+},
+"66": {
+"tag": "g_chess",
+"desc": "QUIK CHESS"
+},
+"67": {
+"tag": "g_genderbender",
+"desc": "GENDER BENDER"
+},
+"68": {
+"tag": "g_bowling",
+"desc": "BOWLING"
+},
+"69": {
+"tag": "g_htquiz",
+"desc": "QUIZ SHOW HT"
+},
+"70": {
+"tag": "g_chipaway",
+"desc": "CHIPAWAY"
+},
+"71": {
+"tag": "g_speeddraw",
+"desc": "SPEED DRAW"
+},
+"72": {
+"tag": "g_flash7_removed",
+"desc": ""
+},
+"73": {
+"tag": "g_ematch_removed",
+"desc": ""
+},
+"74": {
+"tag": "g_ememoree_removed",
+"desc": ""
+},
+"75": {
+"tag": "g_emyst",
+"desc": "EROTIC MYST. PHRAZE"
+},
+"76": {
+"tag": "g_epixmix_removed",
+"desc": ""
+},
+"77": {
+"tag": "g_ephunt",
+"desc": "EROTIC PHOTOHUNT"
+},
+"78": {
+"tag": "g_elout",
+"desc": "EROTIC LOOK OUT"
+},
+"79": {
+"tag": "g_etrivia",
+"desc": "EROTIC TRIVIA"
+},
+"80": {
+"tag": "g_enewtriv",
+"desc": "EROTIC POWER TRIVIA"
+},
+"81": {
+"tag": "g_triples2",
+"desc": "SUPER SNUBBEL"
+},
+"82": {
+"tag": "g_eh2hphunt_removed",
+"desc": ""
+},
+"83": {
+"tag": "g_htmyst",
+"desc": "MYST. PHRAZE HT"
+},
+"84": {
+"tag": "g_h2hgenderbender",
+"desc": "H2H GENDERBENDER"
+},
+"85": {
+"tag": "g_h2hjumblesafari_removed",
+"desc": ""
+},
+"86": {
+"tag": "g_wordzap",
+"desc": "WORDSTER"
+},
+"87": {
+"tag": "g_esprun",
+"desc": "ESP RUN"
+},
+"88": {
+"tag": "g_lirpoker_removed",
+"desc": ""
+},
+"89": {
+"tag": "g_lirtrivia_removed",
+"desc": ""
+},
+"90": {
+"tag": "g_skat_removed",
+"desc": ""
+},
+"91": {
+"tag": "g_espwar",
+"desc": "ESP WAR"
+},
+"92": {
+"tag": "g_qshot",
+"desc": "QSHOT"
+},
+"93": {
+"tag": "g_psh2htriv",
+"desc": "PRO SPORTS H2H TRIVIA"
+},
+"94": {
+"tag": "g_psmyst",
+"desc": "PRO-SPORTS MYST. PHRAZE"
+},
+"95": {
+"tag": "g_pssafari_removed",
+"desc": ""
+},
+"96": {
+"tag": "g_psquizshow_removed",
+"desc": ""
+},
+"97": {
+"tag": "g_jumblex_removed",
+"desc": ""
+},
+"98": {
+"tag": "g_wjumble_removed",
+"desc": ""
+},
+"99": {
+"tag": "g_tibtrivia_removed",
+"desc": ""
+},
+"100": {
+"tag": "g_tibpoker_removed",
+"desc": ""
+},
+"101": {
+"tag": "g_magiccharms",
+"desc": "MAGIC CHARMS"
+},
+"102": {
+"tag": "g_bigtimeroller",
+"desc": "BIGTIME ROLLER"
+},
+"103": {
+"tag": "g_cardbandits",
+"desc": "CARD BANDITS"
+},
+"104": {
+"tag": "g_reversetriv",
+"desc": "TRIVIA TREASURE"
+},
+"105": {
+"tag": "g_magiccharms_le_removed",
+"desc": ""
+},
+"106": {
+"tag": "g_ginrummy",
+"desc": "GINRUMMY"
+},
+"107": {
+"tag": "g_castlebandits",
+"desc": "CASTLE BANDITS"
+},
+"108": {
+"tag": "g_worddojo",
+"desc": "WORD DOJO"
+},
+"109": {
+"tag": "g_wordpong_removed",
+"desc": ""
+},
+"110": {
+"tag": "g_pool",
+"desc": "RACK 'EM"
+},
+"111": {
+"tag": "g_dominoes",
+"desc": "DOMINO 5"
+},
+"112": {
+"tag": "g_battlegroup",
+"desc": "BATTLE COMMAND"
+},
+"113": {
+"tag": "g_prem_ephunt",
+"desc": "PENTHOUSE PHOTOHUNT"
+},
+"114": {
+"tag": "g_prem_elout",
+"desc": "PENTHOUSE EROTIC LOOKOUT"
+},
+"115": {
+"tag": "g_prem_eboxxi",
+"desc": "PENTHOUSE BOXXI"
+},
+"116": {
+"tag": "g_pom_boxxi",
+"desc": "POM BOXXI"
+},
+"117": {
+"tag": "g_cardmerithon_removed",
+"desc": ""
+},
+"118": {
+"tag": "g_strategymerithon_removed",
+"desc": ""
+},
+"119": {
+"tag": "g_quizmerithon",
+"desc": "QUIZ MERIT-THON"
+},
+"120": {
+"tag": "g_multmerithon_removed",
+"desc": ""
+},
+"121": {
+"tag": "g_quizmerithon2",
+"desc": "QUIZ MERIT-THON 2"
+},
+"122": {
+"tag": "g_funkymonkey",
+"desc": "FUNKY MONKEY"
+},
+"123": {
+"tag": "g_pharaohsfortune",
+"desc": "PHARAOH'S FORTUNE"
+},
+"124": {
+"tag": "g_pspharaohsfortune",
+"desc": "P.S. PHARAOH'S FORTUNE"
+},
+"125": {
+"tag": "g_tmaxxmerithon",
+"desc": "TMAXX MERIT-THON"
+},
+"126": {
+"tag": "g_trackball_minigolf_removed",
+"desc": "BW MINIGOLF"
+},
+"127": {
+"tag": "g_trackball_basketball_removed",
+"desc": "BW BASKETBALL"
+},
+"128": {
+"tag": "g_trackball_bowling_removed",
+"desc": "STRIKE CITY"
+},
+"129": {
+"tag": "g_trackball_skeeball_removed",
+"desc": "SKEEBALL"
+},
+"130": {
+"tag": "g_monkeybusiness",
+"desc": "MONKEY BASH"
+},
+"131": {
+"tag": "g_trilogymerithon",
+"desc": "TRILOGY MERIT-THON"
+},
+"132": {
+"tag": "g_brick",
+"desc": "BREAKIN' BRICKS"
+},
+"133": {
+"tag": "g_atwminigolf",
+"desc": "ATW MINI-GOLF"
+},
+"134": {
+"tag": "g_spaceminigolf",
+"desc": "SPACE MINI-GOLF"
+},
+"135": {
+"tag": "g_packrabbit",
+"desc": "PACK RABBIT"
+},
+"136": {
+"tag": "g_tuxedo_run",
+"desc": "TUXEDO RUN"
+},
+"137": {
+"tag": "g_fmvstrip_removed",
+"desc": ""
+},
+"138": {
+"tag": "g_sudoku",
+"desc": "SUDOKU6"
+},
+"139": {
+"tag": "g_draggle",
+"desc": "DRAGGLE DROP"
+},
+"140": {
+"tag": "g_luxor",
+"desc": "LUXOR"
+},
+"141": {
+"tag": "g_chug_monkey",
+"desc": "CHUG MONKEY"
+},
+"142": {
+"tag": "g_hrderby",
+"desc": "HOME RUN DERBY"
+},
+"143": {
+"tag": "g_office_bash",
+"desc": "OFFICE BASH"
+},
+"144": {
+"tag": "g_uno_poker_removed",
+"desc": ""
+},
+"145": {
+"tag": "g_kids_color",
+"desc": "KIDS' KOLORTIME"
+},
+"146": {
+"tag": "g_switcheroo",
+"desc": "MEGATOUCH SWITCHEROO"
+},
+"147": {
+"tag": "g_phunt_kids",
+"desc": "KIDS' PHOTO HUNT"
+},
+"148": {
+"tag": "g_ticatac21",
+"desc": "TIC A TAC 21"
+},
+"149": {
+"tag": "g_cardraiders",
+"desc": "CARD RAIDERS"
+},
+"150": {
+"tag": "g_cryptraiders",
+"desc": "CRYPT RAIDERS"
+},
+"151": {
+"tag": "g_tictactrivia",
+"desc": "TIC TAC TRIVIA"
+},
+"152": {
+"tag": "g_meteorshower",
+"desc": "METEOR SHOWER"
+},
+"153": {
+"tag": "g_breakout",
+"desc": "VINCI-BALL"
+},
+"154": {
+"tag": "g_wordfever_removed",
+"desc": ""
+},
+"155": {
+"tag": "g_9ball",
+"desc": "RACK 'EM 9 BALL"
+},
+"156": {
+"tag": "g_puzzlemerithon",
+"desc": "PUZZLE MERIT-THON"
+},
+"157": {
+"tag": "g_tvgxword",
+"desc": "TV GUIDE CROSSWORDS"
+},
+"158": {
+"tag": "g_racepoker",
+"desc": "RACE POKER"
+},
+"159": {
+"tag": "g_boxdrop",
+"desc": "BOX DROP"
+},
+"160": {
+"tag": "g_motormatch",
+"desc": "MOTOR MATCH"
+},
+"161": {
+"tag": "g_minigolf",
+"desc": "MEGATOUCH MINI-GOLF"
+},
+"162": {
+"tag": "g_unused",
+"desc": "Fantasy Sports FootBall - unusedfsports-unused"
+},
+"163": {
+"tag": "g_prem_epixmix",
+"desc": "PREM EROTIC PIXMIX"
+},
+"164": {
+"tag": "g_chip_ephunt",
+"desc": "CHIPPENDALES PHOTOHUNT"
+},
+"165": {
+"tag": "g_chip_elout",
+"desc": "CHIPPENDALES LOOKOUT"
+},
+"166": {
+"tag": "g_chip_eboxxi",
+"desc": "CHIPPENDALES BOXXI"
+},
+"167": {
+"tag": "g_chip_epixmix",
+"desc": "CHIPPENDALES PIXMIX"
+},
+"168": {
+"tag": "g_com_boxxi",
+"desc": "COM BOXXI"
+},
+"169": {
+"tag": "g_erot_cardbandits",
+"desc": "EROTIC CARD BANDITS"
+},
+"170": {
+"tag": "g_erot_castlebandits",
+"desc": "EROTIC CASTLE BANDITS"
+},
+"171": {
+"tag": "g_obsolete_171",
+"desc": ""
+},
+"172": {
+"tag": "g_ttunes",
+"desc": "TOUCHTUNES"
+},
+"173": {
+"tag": "g_chain_boxxi",
+"desc": "CHAIN EROTIC BOXXI"
+},
+"174": {
+"tag": "g_chain_lookout",
+"desc": "CHAIN EROTIC LOOKOUT"
+},
+"175": {
+"tag": "g_chain_pixmix",
+"desc": "CHAIN EROTIC PIXMIX"
+},
+"176": {
+"tag": "g_chain_ecardbandits",
+"desc": "CHAIN CARD BANDITS"
+},
+"177": {
+"tag": "g_chain_trivia",
+"desc": "CHAIN TRIVIA"
+},
+"178": {
+"tag": "g_texas_hold_em",
+"desc": "TEXAS HOLD 'EM"
+},
+"179": {
+"tag": "g_congafish",
+"desc": "CONGA FISH"
+},
+"180": {
+"tag": "g_driving",
+"desc": "FAST TRAXX"
+},
+"181": {
+"tag": "g_sideshooter",
+"desc": "SPACE CRUSADER"
+},
+"182": {
+"tag": "g_videowhiz",
+"desc": "VIDEO WHIZ"
+},
+"183": {
+"tag": "g_hollywood_match",
+"desc": "HOLLYWOOD MATCH"
+},
+"184": {
+"tag": "g_3drescue",
+"desc": ""
+},
+"185": {
+"tag": "g_feedingfrenzy",
+"desc": "FEEDING FROSTY"
+},
+"186": {
+"tag": "g_feedingfrenzy_kid",
+"desc": ""
+},
+"187": {
+"tag": "g_stickerbook",
+"desc": "STICKER BOOK"
+},
+"188": {
+"tag": "g_tapper",
+"desc": "PUBMASTER"
+},
+"189": {
+"tag": "g_18holegolf",
+"desc": ""
+},
+"190": {
+"tag": "g_boxxi_localcontent",
+"desc": "HOMETOWN BOXXI"
+},
+"191": {
+"tag": "g_brainquest",
+"desc": "BRAIN QUEST"
+},
+"192": {
+"tag": "g_pent_boxxi_removed",
+"desc": ""
+},
+"193": {
+"tag": "g_sportsmerithon",
+"desc": "SPORTS MERIT-THON"
+},
+"194": {
+"tag": "g_rowelink",
+"desc": "AMILINK"
+},
+"195": {
+"tag": "g_uno_removed",
+"desc": ""
+},
+"196": {
+"tag": "g_coco_loco",
+"desc": "COCO LOCO"
+},
+"197": {
+"tag": "g_zenword",
+"desc": "ZENWORD"
+},
+"198": {
+"tag": "g_spot_match",
+"desc": "PHOTO POP"
+},
+"199": {
+"tag": "g_dodge_bull",
+"desc": "DODGE BULL"
+},
+"200": {
+"tag": "g_outlaw_poker",
+"desc": "OUTLAW POKER"
+},
+"201": {
+"tag": "g_symbol_outlaw_poker",
+"desc": "CATTLE DRIVE"
+},
+"202": {
+"tag": "g_new_pileon",
+"desc": "PILE-ON"
+},
+"203": {
+"tag": "g_texas_hold_em_4",
+"desc": "TEXAS HOLD 'EM"
+},
+"204": {
+"tag": "g_beer_pong",
+"desc": "BEER PONG"
+},
+"205": {
+"tag": "g_beer_pong_challenge",
+"desc": "BEER PONG 21"
+},
+"206": {
+"tag": "g_chainz2",
+"desc": "CHAINZ 2"
+},
+"207": {
+"tag": "g_luxor2",
+"desc": "LUXOR 2"
+},
+"208": {
+"tag": "g_ink_rally",
+"desc": "INK RALLY"
+},
+"209": {
+"tag": "g_tricky_fish",
+"desc": "TRICKY FISH"
+},
+"210": {
+"tag": "g_jolly_pirates",
+"desc": "JOLLY PIRATES"
+},
+"211": {
+"tag": "g_kids_photopop",
+"desc": "KIDS PHOTO POP"
+},
+"212": {
+"tag": "g_penthouse_photopop",
+"desc": "PH PHOTO POP"
+},
+"213": {
+"tag": "g_penthouse_videoxmix_removed",
+"desc": ""
+},
+"214": {
+"tag": "g_luxor_survival",
+"desc": "LUXOR SURVIVAL"
+},
+"215": {
+"tag": "g_boxing",
+"desc": "TRPL CRN BOXING"
+},
+"216": {
+"tag": "g_cell_chaos",
+"desc": "SUP CELL CHAOS"
+},
+"217": {
+"tag": "g_chainz2_puzzle",
+"desc": "CHAINZ 2 PUZZLER"
+},
+"218": {
+"tag": "g_lucky_elevens",
+"desc": "LUCKY ELEVENS"
+},
+"219": {
+"tag": "g_spider_kings",
+"desc": "SPIDER KINGS"
+},
+"220": {
+"tag": "g_13_spiders",
+"desc": "13 SPIDERS"
+},
+"221": {
+"tag": "g_avalanche_jack",
+"desc": "AVALANCHE JACK"
+},
+"222": {
+"tag": "g_super_boxxi",
+"desc": "SUPER BOXXI"
+},
+"223": {
+"tag": "g_deflection",
+"desc": "DEFLECTION"
+},
+"224": {
+"tag": "g_my_ex",
+"desc": "MY EX"
+},
+"225": {
+"tag": "g_trivia_whiz_2",
+"desc": "TRIVIA WHIZ 2"
+},
+"226": {
+"tag": "g_skeeball",
+"desc": "SKEE BALL"
+},
+"227": {
+"tag": "g_brain_in_gear",
+"desc": "BRAIN IN GEAR"
+},
+"228": {
+"tag": "g_tug_of_words",
+"desc": "TUG OF WORDS"
+},
+"229": {
+"tag": "g_little_shop_of_treasures",
+"desc": "LITTLE SHOP"
+},
+"231": {
+"tag": "g_fight_the_landlord",
+"desc": "FIGHT THE LANDLORD"
+},
+"232": {
+"tag": "g_photo_hunt_hd",
+"desc": "PHOTO HUNT HD"
+},
+"233": {
+"tag": "g_showtenders_cocktail_college",
+"desc": "SHOW TENDERS COLLEGE COCKTAIL"
+},
+"234": {
+"tag": "g_common",
+"desc": ""
+},
+"235": {
+"tag": "g_sample_game",
+"desc": "SAMPLE GAME"
+},
+"236": {
+"tag": "g_jackpot_corner",
+"desc": "JACKPOT CORNER"
+},
+"237": {
+"tag": "g_funky_monkey_2",
+"desc": "FUNKIER MONKEY"
+},
+"238": {
+"tag": "g_text_twist2",
+"desc": "TEXT TWIST 2"
+},
+"239": {
+"tag": "g_touchdown_poker",
+"desc": "TOUCHDOWN POKER"
+},
+"240": {
+"tag": "g_stunt_squirrel",
+"desc": "STUNT SQUIRREL"
+},
+"241": {
+"tag": "g_phillies_hottest_phunt_hd",
+"desc": "PHILLIES HOTTEST PHUNT HD"
+},
+"242": {
+"tag": "g_phillies_hottest_phunt_4x3",
+"desc": "PHILLIES HOTTEST PHUNT 4x3"
+},
+"243": {
+"tag": "g_field_goal",
+"desc": "FIELD GOAL"
+},
+"244": {
+"tag": "g_megatouch_memory",
+"desc": "MEGATOUCH MEMORY"
+},
+"245": {
+"tag": "g_trix",
+"desc": "TRIX"
+},
+"246": {
+"tag": "g_penthouse_castle_bandits",
+"desc": "PH CASTLE BANDITS"
+},
+"247": {
+"tag": "g_little_shop_road_trip",
+"desc": "ROAD TRIP"
+},
+"248": {
+"tag": "g_mystery_phraze_hd",
+"desc": ""
+},
+"249": {
+"tag": "g_spin_card_holdem",
+"desc": ""
+},
+"250": {
+"tag": "g_space_farmer",
+"desc": ""
+},
+"251": {
+"tag": "g_penthouse_photohunt_hd",
+"desc": ""
+},
+"252": {
+"tag": "g_gearz",
+"desc": "GEARZ"
+},
+"253": {
+"tag": "g_penthouse_super_boxxi",
+"desc": "PH SUPER BOXXI"
+},
+"254": {
+"tag": "g_zombie_cats",
+"desc": ""
+},
+"255": {
+"tag": "no_game",
+"desc": ""
+},
+"256": {
+"tag": "g_panty_bandits",
+"desc": "PANTY BANDITS"
+},
+"257": {
+"tag": "g_boxxi_template",
+"desc": "BOXXI BLITZ"
+},
+"258": {
+"tag": "g_word_dojo_2",
+"desc": ""
+},
+"259": {
+"tag": "g_trivia_whiz_jr",
+"desc": "TRIVIA WHIZ JR"
+},
+"260": {
+"tag": "g_wordy_birds",
+"desc": "WORDY BIRDS"
+},
+"261": {
+"tag": "g_monster_madness",
+"desc": "MONSTER MADNESS 2"
+},
+"262": {
+"tag": "g_dino_trivia",
+"desc": "DINO WHIZ"
+},
+"263": {
+"tag": "g_play_4_cross",
+"desc": "PLAY 4"
+},
+"264": {
+"tag": "g_rock_mahjong",
+"desc": "ROCK MAHJONG"
+},
+"265": {
+"tag": "g_hidden_object_1",
+"desc": "PHUNT EXP 1"
+},
+"266": {
+"tag": "g_hidden_object_2",
+"desc": "PHUNT EXP 2"
+},
+"267": {
+"tag": "g_pit_crew_pairem",
+"desc": "PIT CREW PAIR EM"
+},
+"268": {
+"tag": "g_run21_hd",
+"desc": "SUPER RUN 21"
+},
+"269": {
+"tag": "g_mystical_strike",
+"desc": "MYSTICAL STRIKE"
+},
+"270": {
+"tag": "g_sb_clone",
+"desc": "FLICK CITY ROLLERS"
+},
+"271": {
+"tag": "g_angry_bash",
+"desc": "MONKEY BASH WORLD TOUR"
+},
+"272": {
+"tag": "g_boxxi_hd",
+"desc": "BOXXI 2"
+},
+"273": {
+"tag": "g_monster_madness_chaos",
+"desc": "MONSTER MADNESS CHAOS"
+},
+"274": {
+"tag": "g_baseball",
+"desc": "FLICK CITY SLUGGERS"
+},
+"275": {
+"tag": "g_hunks_super_boxxi",
+"desc": ""
+},
+"276": {
+"tag": "g_hunks_photo_hunt",
+"desc": ""
+},
+"277": {
+"tag": "g_hunks_card_bandits",
+"desc": ""
+},
+"278": {
+"tag": "g_grimm_photo_hunt",
+"desc": "PHUNT GRIMM FAIRY TALES"
+},
+"279": {
+"tag": "g_bottle_top_drop",
+"desc": "BOTTLE TOP DROP"
+},
+"280": {
+"tag": "g_hidden_object_3",
+"desc": "PHOTO HUNT EXPEDITION 3"
+},
+"281": {
+"tag": "g_final_table_dice_poker",
+"desc": "FINAL TABLE 5 DICE POKER"
+},
+"283": {
+"tag": "g_milky_way_mulligan",
+"desc": "MILKY WAY MINI GOLF"
+},
+"284": {
+"tag": "g_cardboard_chaos_zombie",
+"desc": "CARDBOARD CHAOS ZOMBIE EDITION"
+},
+"285": {
+"tag": "g_ice_rift",
+"desc": "ICE RIFT"
+},
+"286": {
+"tag": "g_tri_towers_2",
+"desc": "TRI TOWERS 2"
+},
+"287": {
+"tag": "g_air_guardian_escape",
+"desc": "AIR GUARDIAN ESCAPE"
+},
+"288": {
+"tag": "g_hunks_dice_poker",
+"desc": "HUNKS 5 DICE POKER"
+},
+"289": {
+"tag": "g_penthouse_dice_poker",
+"desc": "PENTHOUSE 5 DICE POKER"
+},
+"290": {
+"tag": "g_final_table_black_jack",
+"desc": "FINAL TABLE BLACK JACK"
+},
+"291": {
+"tag": "g_close_the_clock",
+"desc": "CLOSE THE CLOCK"
+},
+"292": {
+"tag": "g_tri_castles_2",
+"desc": "TRI-CASTLES 2"
+},
+"293": {
+"tag": "max_used_game_range_id",
+"desc": ""
+},
+"300": {
+"tag": "max_games",
+"desc": ""
+}
+},
+"FORCE": {
+"0": {
+"tag": "g_solitaire",
+"desc": "GREAT SOLITAIRE"
+},
+"1": {
+"tag": "g_run21",
+"desc": "RUN21"
+},
+"3": {
+"tag": "g_trivia",
+"desc": "TRIVIA WHIZ"
+},
+"5": {
+"tag": "g_memoree",
+"desc": "MEMOREE"
+},
+"7": {
+"tag": "g_fourplay",
+"desc": "FOURPLAY"
+},
+"9": {
+"tag": "g_strip",
+"desc": "STRIP CLUB"
+},
+"11": {
+"tag": "g_myst",
+"desc": "MYST. PHRAZE"
+},
+"13": {
+"tag": "g_zip21",
+"desc": "ZIP21"
+},
+"14": {
+"tag": "g_checkerz",
+"desc": "CHECKERZ"
+},
+"15": {
+"tag": "g_qmatch",
+"desc": "QUIK MATCH"
+},
+"16": {
+"tag": "g_psolitaire",
+"desc": "PWR SOLITAIRE"
+},
+"18": {
+"tag": "g_phunt",
+"desc": "PHOTOHUNT"
+},
+"20": {
+"tag": "g_shanghai",
+"desc": "TAI-PLAY"
+},
+"22": {
+"tag": "g_tennis",
+"desc": "TENNIS"
+},
+"23": {
+"tag": "g_ttshboard",
+"desc": "PUCK SHOT"
+},
+"24": {
+"tag": "g_pileon",
+"desc": "PILE-ON"
+},
+"25": {
+"tag": "g_take2",
+"desc": "TAKE 2"
+},
+"27": {
+"tag": "g_mltrivia",
+"desc": "LINK TRIVIA"
+},
+"29": {
+"tag": "g_s11up",
+"desc": "ELEVEN BALL"
+},
+"31": {
+"tag": "g_stake2",
+"desc": "PAIR OFF"
+},
+"32": {
+"tag": "g_triples",
+"desc": "HOOTER"
+},
+"33": {
+"tag": "g_newtriv",
+"desc": "POWER TRIVIA"
+},
+"34": {
+"tag": "g_h2hphunt",
+"desc": "H2H PHUNT"
+},
+"36": {
+"tag": "g_h2htrivia",
+"desc": "H2H TRIVIA"
+},
+"38": {
+"tag": "g_ssol",
+"desc": "LONESTAR"
+},
+"40": {
+"tag": "g_squikc",
+"desc": "FASTLANE"
+},
+"41": {
+"tag": "g_pmem",
+"desc": "SNAPSHOT"
+},
+"42": {
+"tag": "g_lout",
+"desc": "LOOK OUT"
+},
+"43": {
+"tag": "g_mmash",
+"desc": "MONSTER MADNESS"
+},
+"45": {
+"tag": "g_airhockey",
+"desc": "AIR SHOT"
+},
+"47": {
+"tag": "g_pilehigh",
+"desc": "PILEHIGH"
+},
+"49": {
+"tag": "g_football",
+"desc": "QB ZONE"
+},
+"50": {
+"tag": "g_wildape",
+"desc": "WILD APE's"
+},
+"51": {
+"tag": "g_quintzee",
+"desc": "QUINTZEE"
+},
+"52": {
+"tag": "g_ddcjumblex_removed",
+"desc": ""
+},
+"54": {
+"tag": "g_snowball",
+"desc": "ASTRO JOE"
+},
+"56": {
+"tag": "g_spades",
+"desc": "OUTER SPADES"
+},
+"58": {
+"tag": "g_gameshow",
+"desc": "QUIZ SHOW"
+},
+"59": {
+"tag": "g_boxxi",
+"desc": "BOXXI"
+},
+"60": {
+"tag": "g_eboxxi",
+"desc": "FOXY BOXXI"
+},
+"61": {
+"tag": "g_moondrop",
+"desc": "MOONDROP"
+},
+"63": {
+"tag": "g_31",
+"desc": "BATTLE 31"
+},
+"65": {
+"tag": "g_backjammin",
+"desc": "BACK JAMMIN"
+},
+"67": {
+"tag": "g_genderbender",
+"desc": "GENDER BENDER"
+},
+"68": {
+"tag": "g_bowling",
+"desc": "BOWLING"
+},
+"69": {
+"tag": "g_htquiz",
+"desc": "QUIZ SHOW HT"
+},
+"70": {
+"tag": "g_chipaway",
+"desc": "CHIPAWAY"
+},
+"72": {
+"tag": "g_flash7",
+"desc": "FLASH 7"
+},
+"74": {
+"tag": "g_ememoree",
+"desc": "EROTIC MEMOREE"
+},
+"76": {
+"tag": "g_epixmix",
+"desc": "EROTIC PIX MIX"
+},
+"77": {
+"tag": "g_ephunt",
+"desc": "EROTIC PHOTOHUNT"
+},
+"78": {
+"tag": "g_elout",
+"desc": "EROTIC LOOK OUT"
+},
+"79": {
+"tag": "g_etrivia",
+"desc": "EROTIC TRIVIA"
+},
+"81": {
+"tag": "g_triples2",
+"desc": "SUPER SNUBBEL"
+},
+"83": {
+"tag": "g_htmyst",
+"desc": "MYST. PHRAZE HT"
+},
+"85": {
+"tag": "g_h2hjumblesafari",
+"desc": "H2H SAFARI"
+},
+"86": {
+"tag": "g_wordzap",
+"desc": "WORDSTER"
+},
+"87": {
+"tag": "g_esprun",
+"desc": "ESP RUN"
+},
+"88": {
+"tag": "g_lirpoker",
+"desc": "LET IT RIDE POKER"
+},
+"90": {
+"tag": "g_skat",
+"desc": "SKAT"
+},
+"92": {
+"tag": "g_qshot",
+"desc": "QSHOT"
+},
+"94": {
+"tag": "g_psmyst",
+"desc": "PRO-SPORTS MYST. PHRAZE"
+},
+"95": {
+"tag": "g_pssafari",
+"desc": "PRO SPORTS WORD SAFARI"
+},
+"96": {
+"tag": "g_psquizshow",
+"desc": "PRO SPORTS QUIZ SHOW"
+},
+"97": {
+"tag": "g_jumblex_removed",
+"desc": ""
+},
+"99": {
+"tag": "g_tibtrivia",
+"desc": "TAKE IT BACK TRIVIA"
+},
+"101": {
+"tag": "g_magiccharms",
+"desc": "MAGIC CHARMS"
+},
+"103": {
+"tag": "g_cardbandits",
+"desc": "CARD BANDITS"
+},
+"104": {
+"tag": "g_reversetriv",
+"desc": "TRIVIA TREASURE"
+},
+"105": {
+"tag": "g_magiccharms_le",
+"desc": "MAGIC CHARMS LE"
+},
+"106": {
+"tag": "g_ginrummy",
+"desc": "GINRUMMY"
+},
+"108": {
+"tag": "g_worddojo",
+"desc": "WORD DOJO"
+},
+"110": {
+"tag": "g_pool",
+"desc": "RACK 'EM"
+},
+"112": {
+"tag": "g_battlegroup",
+"desc": "BATTLE COMMAND"
+},
+"113": {
+"tag": "g_prem_ephunt",
+"desc": "PENTHOUSE PHOTOHUNT"
+},
+"114": {
+"tag": "g_prem_elout",
+"desc": "PENTHOUSE EROTIC LOOKOUT"
+},
+"115": {
+"tag": "g_prem_eboxxi",
+"desc": "PENTHOUSE BOXXI"
+},
+"117": {
+"tag": "g_cardmerithon",
+"desc": "CARD MERIT-THON"
+},
+"119": {
+"tag": "g_quizmerithon",
+"desc": "QUIZ MERIT-THON"
+},
+"121": {
+"tag": "g_quizmerithon2",
+"desc": "QUIZ MERIT-THON 2"
+},
+"122": {
+"tag": "g_funkymonkey",
+"desc": "FUNKY MONKEY"
+},
+"123": {
+"tag": "g_pharaohsfortune",
+"desc": "PHARAOH'S FORTUNE"
+},
+"124": {
+"tag": "g_pspharaohsfortune",
+"desc": "P.S. PHARAOH'S FORTUNE"
+},
+"126": {
+"tag": "g_trackball_minigolf",
+"desc": "BW MINIGOLF"
+},
+"128": {
+"tag": "g_trackball_bowling",
+"desc": "STRIKE CITY"
+},
+"130": {
+"tag": "g_monkeybusiness",
+"desc": "MONKEY BASH"
+},
+"131": {
+"tag": "g_trilogymerithon",
+"desc": "TRILOGY MERIT-THON"
+},
+"132": {
+"tag": "g_brick",
+"desc": "BREAKIN' BRICKS"
+},
+"133": {
+"tag": "g_atwminigolf",
+"desc": "ATW MINI-GOLF"
+},
+"135": {
+"tag": "g_packrabbit",
+"desc": "PACK RABBIT"
+},
+"137": {
+"tag": "g_fmvstrip",
+"desc": "PENTHOUSE FMV STRIP"
+},
+"139": {
+"tag": "g_draggle",
+"desc": "DRAGGLE DROP"
+},
+"140": {
+"tag": "g_luxor",
+"desc": "LUXOR"
+},
+"141": {
+"tag": "g_chug_monkey",
+"desc": "CHUG MONKEY"
+},
+"142": {
+"tag": "g_hrderby",
+"desc": "HOME RUN DERBY"
+},
+"144": {
+"tag": "g_uno_poker",
+"desc": "UNO 52 POKER"
+},
+"146": {
+"tag": "g_switcheroo",
+"desc": "MEGATOUCH SWITCHEROO"
+},
+"148": {
+"tag": "g_ticatac21",
+"desc": "TIC A TAC 21"
+},
+"149": {
+"tag": "g_cardraiders",
+"desc": "CARD RAIDERS"
+},
+"150": {
+"tag": "g_cryptraiders",
+"desc": "CRYPT RAIDERS"
+},
+"151": {
+"tag": "g_tictactrivia",
+"desc": "TIC TAC TRIVIA"
+},
+"153": {
+"tag": "g_breakout",
+"desc": "VINCI-BALL"
+},
+"155": {
+"tag": "g_9ball",
+"desc": "RACK 'EM 9 BALL"
+},
+"157": {
+"tag": "g_tvgxword",
+"desc": "TV GUIDE CROSSWORDS"
+},
+"158": {
+"tag": "g_racepoker",
+"desc": "RACE POKER"
+},
+"159": {
+"tag": "g_boxdrop",
+"desc": "BOX DROP"
+},
+"160": {
+"tag": "g_motormatch",
+"desc": "MOTOR MATCH"
+},
+"162": {
+"tag": "g_unused",
+"desc": "Fantasy Sports FootBall - unusedfsports-unused"
+},
+"164": {
+"tag": "g_chip_ephunt",
+"desc": "CHIPPENDALES PHOTOHUNT"
+},
+"166": {
+"tag": "g_chip_eboxxi",
+"desc": "CHIPPENDALES BOXXI"
+},
+"167": {
+"tag": "g_chip_epixmix",
+"desc": "CHIPPENDALES PIXMIX"
+},
+"168": {
+"tag": "g_com_boxxi",
+"desc": "COM BOXXI"
+},
+"169": {
+"tag": "g_erot_cardbandits",
+"desc": "EROTIC CARD BANDITS"
+},
+"171": {
+"tag": "g_obsolete_171",
+"desc": ""
+},
+"173": {
+"tag": "g_chain_boxxi",
+"desc": "CHAIN EROTIC BOXXI"
+},
+"175": {
+"tag": "g_chain_pixmix",
+"desc": "CHAIN EROTIC PIXMIX"
+},
+"176": {
+"tag": "g_chain_ecardbandits",
+"desc": "CHAIN CARD BANDITS"
+},
+"177": {
+"tag": "g_chain_trivia",
+"desc": "CHAIN TRIVIA"
+},
+"178": {
+"tag": "g_texas_hold_em",
+"desc": "TEXAS HOLD 'EM"
+},
+"180": {
+"tag": "g_driving",
+"desc": "FAST TRAXX"
+},
+"182": {
+"tag": "g_videowhiz",
+"desc": "VIDEO WHIZ"
+},
+"184": {
+"tag": "g_3drescue",
+"desc": ""
+},
+"185": {
+"tag": "g_feedingfrenzy",
+"desc": "FEEDING FROSTY"
+},
+"186": {
+"tag": "g_feedingfrenzy_kid",
+"desc": ""
+},
+"187": {
+"tag": "g_stickerbook",
+"desc": "STICKER BOOK"
+},
+"189": {
+"tag": "g_18holegolf",
+"desc": ""
+},
+"191": {
+"tag": "g_brainquest",
+"desc": "BRAIN QUEST"
+},
+"193": {
+"tag": "g_sportsmerithon",
+"desc": "SPORTS MERIT-THON"
+},
+"194": {
+"tag": "g_rowelink",
+"desc": "AMILINK"
+},
+"195": {
+"tag": "g_uno",
+"desc": "UNO"
+},
+"196": {
+"tag": "g_coco_loco",
+"desc": "COCO LOCO"
+},
+"198": {
+"tag": "g_spot_match",
+"desc": "PHOTO POP"
+},
+"200": {
+"tag": "g_outlaw_poker",
+"desc": "OUTLAW POKER"
+},
+"202": {
+"tag": "g_new_pileon",
+"desc": "PILE-ON"
+},
+"203": {
+"tag": "g_texas_hold_em_4",
+"desc": "TEXAS HOLD 'EM"
+},
+"204": {
+"tag": "g_beer_pong",
+"desc": "BEER PONG"
+},
+"205": {
+"tag": "g_beer_pong_challenge",
+"desc": "BEER PONG 21"
+},
+"207": {
+"tag": "g_luxor2",
+"desc": "LUXOR 2"
+},
+"209": {
+"tag": "g_tricky_fish",
+"desc": "TRICKY FISH"
+},
+"211": {
+"tag": "g_kids_photopop",
+"desc": "KIDS PHOTO POP"
+},
+"212": {
+"tag": "g_penthouse_photopop",
+"desc": "PH PHOTO POP"
+},
+"213": {
+"tag": "g_penthouse_videoxmix",
+"desc": "VIDEO MIX"
+},
+"214": {
+"tag": "g_luxor_survival",
+"desc": "LUXOR SURVIVAL"
+},
+"216": {
+"tag": "g_cell_chaos",
+"desc": "SUP CELL CHAOS"
+},
+"218": {
+"tag": "g_lucky_elevens",
+"desc": "LUCKY ELEVENS"
+},
+"220": {
+"tag": "g_13_spiders",
+"desc": "13 SPIDERS"
+},
+"221": {
+"tag": "g_avalanche_jack",
+"desc": "AVALANCHE JACK"
+},
+"222": {
+"tag": "g_super_boxxi",
+"desc": "SUPER BOXXI"
+},
+"223": {
+"tag": "g_deflection",
+"desc": "DEFLECTION"
+},
+"225": {
+"tag": "g_trivia_whiz_2",
+"desc": "TRIVIA WHIZ 2"
+},
+"227": {
+"tag": "g_brain_in_gear",
+"desc": "BRAIN IN GEAR"
+},
+"229": {
+"tag": "g_little_shop_of_treasures",
+"desc": "LITTLE SHOP"
+},
+"231": {
+"tag": "g_fight_the_landlord",
+"desc": "FIGHT THE LANDLORD"
+},
+"232": {
+"tag": "g_photo_hunt_hd",
+"desc": "PHOTO HUNT HD"
+},
+"233": {
+"tag": "g_showtenders_cocktail_college",
+"desc": "SHOW TENDERS COLLEGE COCKTAIL"
+},
+"234": {
+"tag": "g_common",
+"desc": ""
+},
+"237": {
+"tag": "g_funky_monkey_2",
+"desc": "FUNKIER MONKEY"
+},
+"239": {
+"tag": "g_touchdown_poker",
+"desc": "TOUCHDOWN POKER"
+},
+"240": {
+"tag": "g_stunt_squirrel",
+"desc": "STUNT SQUIRREL"
+},
+"242": {
+"tag": "g_phillies_hottest_phunt_4x3",
+"desc": "PHILLIES HOTTEST PHUNT 4x3"
+},
+"244": {
+"tag": "g_megatouch_memory",
+"desc": "MEGATOUCH MEMORY"
+},
+"246": {
+"tag": "g_penthouse_castle_bandits",
+"desc": "PH CASTLE BANDITS"
+},
+"247": {
+"tag": "g_little_shop_road_trip",
+"desc": "ROAD TRIP"
+},
+"253": {
+"tag": "g_penthouse_super_boxxi",
+"desc": "PH SUPER BOXXI"
+},
+"255": {
+"tag": "no_game",
+"desc": ""
+},
+"257": {
+"tag": "g_boxxi_template",
+"desc": "BOXXI BLITZ"
+},
+"259": {
+"tag": "g_trivia_whiz_jr",
+"desc": "TRIVIA WHIZ JR"
+},
+"300": {
+"tag": "max_games",
+"desc": ""
+}
+}
+}

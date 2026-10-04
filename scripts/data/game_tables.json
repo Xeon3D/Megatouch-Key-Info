@@ -1,0 +1,6680 @@
+{
+ "tables": {
+  "M306": {
+   "label": "MAXX 3.06",
+   "source": "analysis/p16/MAXX_V3.06_-_Played.GAMEDATA.DAT",
+   "sha256": "7865b222765d2255",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "B-BRICKS",
+    "35": "TRIP-FLIP",
+    "36": "JOEPARDY",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ],
+    "17": [
+     "h2h"
+    ],
+    "18": [
+     "h2h"
+    ],
+    "19": [
+     "h2h"
+    ],
+    "20": [
+     "h2h"
+    ],
+    "21": [
+     "h2h"
+    ],
+    "22": [
+     "h2h"
+    ],
+    "23": [
+     "h2h"
+    ],
+    "24": [
+     "h2h"
+    ],
+    "25": [
+     "h2h"
+    ],
+    "26": [
+     "h2h"
+    ],
+    "28": [
+     "h2h"
+    ],
+    "29": [
+     "h2h"
+    ],
+    "30": [
+     "h2h"
+    ],
+    "31": [
+     "h2h"
+    ],
+    "32": [
+     "h2h"
+    ],
+    "33": [
+     "h2h"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "35": [
+     "h2h"
+    ],
+    "37": [
+     "h2h"
+    ],
+    "40": [
+     "h2h"
+    ],
+    "41": [
+     "h2h"
+    ],
+    "42": [
+     "h2h"
+    ],
+    "43": [
+     "h2h"
+    ],
+    "44": [
+     "h2h"
+    ],
+    "45": [
+     "h2h"
+    ],
+    "46": [
+     "h2h"
+    ],
+    "47": [
+     "h2h"
+    ],
+    "48": [
+     "h2h"
+    ],
+    "49": [
+     "h2h"
+    ],
+    "50": [
+     "h2h"
+    ]
+   }
+  },
+  "M2K": {
+   "label": "MAXX 2K V4.00/V4.01",
+   "source": "analysis/p16/MAXX_2K_V4.00_-_Played.GAMEDATA.DAT",
+   "sha256": "3a1f4fb3a03e22b3",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "B-BRICKS",
+    "35": "TRIP-FLIP",
+    "36": "JOEPARDY",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "Quintzee"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ],
+    "17": [
+     "h2h"
+    ],
+    "18": [
+     "h2h"
+    ],
+    "19": [
+     "h2h"
+    ],
+    "20": [
+     "h2h"
+    ],
+    "21": [
+     "h2h"
+    ],
+    "22": [
+     "h2h"
+    ],
+    "23": [
+     "h2h"
+    ],
+    "24": [
+     "h2h"
+    ],
+    "25": [
+     "h2h"
+    ],
+    "26": [
+     "h2h"
+    ],
+    "28": [
+     "h2h"
+    ],
+    "29": [
+     "h2h"
+    ],
+    "30": [
+     "h2h"
+    ],
+    "31": [
+     "h2h"
+    ],
+    "32": [
+     "h2h"
+    ],
+    "33": [
+     "h2h"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "35": [
+     "h2h"
+    ],
+    "37": [
+     "h2h"
+    ],
+    "40": [
+     "h2h"
+    ],
+    "41": [
+     "h2h"
+    ],
+    "42": [
+     "h2h"
+    ],
+    "43": [
+     "h2h"
+    ],
+    "44": [
+     "h2h"
+    ],
+    "45": [
+     "h2h"
+    ],
+    "46": [
+     "h2h"
+    ],
+    "47": [
+     "h2h"
+    ],
+    "48": [
+     "h2h"
+    ],
+    "49": [
+     "h2h"
+    ],
+    "50": [
+     "h2h"
+    ],
+    "51": [
+     "h2h"
+    ]
+   }
+  },
+  "M2KP": {
+   "label": "MAXX 2K Plus V5.00",
+   "source": "analysis/p16/MAXX_2K_Plus_V5.00_-_Played.GAMEDATA.DAT",
+   "sha256": "e911ddb4c74d7059",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "B-BRICKS",
+    "35": "TRIP-FLIP",
+    "36": "JOEPARDY",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "SAFARI",
+    "56": "Spades",
+    "57": "Hearts"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ],
+    "17": [
+     "h2h"
+    ],
+    "18": [
+     "h2h"
+    ],
+    "19": [
+     "h2h"
+    ],
+    "20": [
+     "h2h"
+    ],
+    "21": [
+     "h2h"
+    ],
+    "22": [
+     "h2h"
+    ],
+    "23": [
+     "h2h"
+    ],
+    "24": [
+     "h2h"
+    ],
+    "25": [
+     "h2h"
+    ],
+    "26": [
+     "h2h"
+    ],
+    "28": [
+     "h2h"
+    ],
+    "29": [
+     "h2h"
+    ],
+    "30": [
+     "h2h"
+    ],
+    "31": [
+     "h2h"
+    ],
+    "32": [
+     "h2h"
+    ],
+    "33": [
+     "h2h"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "35": [
+     "h2h"
+    ],
+    "37": [
+     "h2h"
+    ],
+    "40": [
+     "h2h"
+    ],
+    "41": [
+     "h2h"
+    ],
+    "42": [
+     "h2h"
+    ],
+    "43": [
+     "h2h"
+    ],
+    "44": [
+     "h2h"
+    ],
+    "45": [
+     "h2h"
+    ],
+    "46": [
+     "h2h"
+    ],
+    "47": [
+     "h2h"
+    ],
+    "48": [
+     "h2h"
+    ],
+    "49": [
+     "h2h"
+    ],
+    "50": [
+     "h2h"
+    ],
+    "51": [
+     "h2h"
+    ],
+    "54": [
+     "h2h"
+    ],
+    "55": [
+     "h2h"
+    ],
+    "56": [
+     "h2h"
+    ],
+    "57": [
+     "h2h"
+    ]
+   }
+  },
+  "XPLAT": {
+   "label": "XL Platinum / Double Platinum",
+   "source": "analysis/p16/XL_Platinum_V1.02_-_Played.GAMEDATA.DAT",
+   "sha256": "49c66c9e4a2a7942",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "B-BRICKS",
+    "35": "TRIP-FLIP",
+    "36": "JOEPARDY",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ],
+    "17": [
+     "h2h"
+    ],
+    "18": [
+     "h2h"
+    ],
+    "19": [
+     "h2h"
+    ],
+    "20": [
+     "h2h"
+    ],
+    "21": [
+     "h2h"
+    ],
+    "22": [
+     "h2h"
+    ],
+    "23": [
+     "h2h"
+    ],
+    "24": [
+     "h2h"
+    ],
+    "25": [
+     "h2h"
+    ],
+    "26": [
+     "h2h"
+    ],
+    "28": [
+     "h2h"
+    ],
+    "29": [
+     "h2h"
+    ],
+    "30": [
+     "h2h"
+    ],
+    "31": [
+     "h2h"
+    ],
+    "32": [
+     "h2h"
+    ],
+    "33": [
+     "h2h"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "35": [
+     "h2h"
+    ],
+    "37": [
+     "h2h"
+    ],
+    "40": [
+     "h2h"
+    ],
+    "41": [
+     "h2h"
+    ],
+    "42": [
+     "h2h"
+    ],
+    "43": [
+     "h2h"
+    ],
+    "44": [
+     "h2h"
+    ],
+    "45": [
+     "h2h"
+    ],
+    "46": [
+     "h2h"
+    ],
+    "47": [
+     "h2h"
+    ],
+    "48": [
+     "h2h"
+    ],
+    "49": [
+     "h2h"
+    ],
+    "50": [
+     "h2h"
+    ],
+    "51": [
+     "h2h"
+    ],
+    "54": [
+     "h2h"
+    ],
+    "55": [
+     "h2h"
+    ],
+    "56": [
+     "h2h"
+    ],
+    "57": [
+     "h2h"
+    ],
+    "58": [
+     "h2h"
+    ],
+    "62": [
+     "h2h"
+    ]
+   }
+  },
+  "MDIA": {
+   "label": "MAXX Diamond V6.03/V6.20",
+   "source": "analysis/p16/MAXX_Diamond_V6.03_-_New.GAMEDATA.DAT",
+   "sha256": "05b8a9e6ea4ffb76",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "B-BRICKS",
+    "35": "TRIP-FLIP",
+    "36": "JOEPARDY",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ],
+    "17": [
+     "h2h"
+    ],
+    "18": [
+     "h2h"
+    ],
+    "19": [
+     "h2h"
+    ],
+    "20": [
+     "h2h"
+    ],
+    "21": [
+     "h2h"
+    ],
+    "22": [
+     "h2h"
+    ],
+    "23": [
+     "h2h"
+    ],
+    "24": [
+     "h2h"
+    ],
+    "25": [
+     "h2h"
+    ],
+    "26": [
+     "h2h"
+    ],
+    "28": [
+     "h2h"
+    ],
+    "29": [
+     "h2h"
+    ],
+    "30": [
+     "h2h"
+    ],
+    "31": [
+     "h2h"
+    ],
+    "32": [
+     "h2h"
+    ],
+    "33": [
+     "h2h"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "35": [
+     "h2h"
+    ],
+    "37": [
+     "h2h"
+    ],
+    "40": [
+     "h2h"
+    ],
+    "41": [
+     "h2h"
+    ],
+    "42": [
+     "h2h"
+    ],
+    "43": [
+     "h2h"
+    ],
+    "44": [
+     "h2h"
+    ],
+    "45": [
+     "h2h"
+    ],
+    "46": [
+     "h2h"
+    ],
+    "47": [
+     "h2h"
+    ],
+    "48": [
+     "h2h"
+    ],
+    "49": [
+     "h2h"
+    ],
+    "50": [
+     "h2h"
+    ],
+    "51": [
+     "h2h"
+    ],
+    "54": [
+     "h2h"
+    ],
+    "55": [
+     "h2h"
+    ],
+    "56": [
+     "h2h"
+    ],
+    "57": [
+     "h2h"
+    ],
+    "58": [
+     "h2h"
+    ],
+    "62": [
+     "h2h"
+    ]
+   }
+  },
+  "MDD": {
+   "label": "MAXX Double Diamond V7.01/V7.20",
+   "source": "analysis/p16/MAXX_Double_Diamond_V7.01_-_New.GAMEDATA.DAT",
+   "sha256": "d9f29cfc5ab951dc",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HC ELEVEN UP",
+    "35": "TRIP-FLIP",
+    "36": "HC TRI-TOWERS",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "THIRTY-ONE",
+    "64": "GEM SWIPE",
+    "65": "BACK JAMMIN",
+    "66": "SPEED CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "XTIT": {
+   "label": "XL Titanium V3.00",
+   "source": "analysis/p16/XL_Titanium_V3.00_-_Keyless_Played.GAMEDATA.DAT",
+   "sha256": "6e3be93896d685d8",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HEAD-TO-HEAD PHUNT",
+    "35": "TRIP-FLIP",
+    "36": "HEAD-TO-HEAD TRIV",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "SKAT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 10",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SNUBBEL",
+    "82": "EROTIC H-H PHUNT",
+    "83": "HEAD-HEAD SNAPSHOT"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "XTIT2": {
+   "label": "XL Titanium 2 V4.00",
+   "source": "analysis/p16/XL_Titanium_2_V4.00_-_Played.GAMEDATA.DAT",
+   "sha256": "9ff90238e9bca20d",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HEAD-TO-HEAD PHUNT",
+    "35": "TRIP-FLIP",
+    "36": "HEAD-TO-HEAD TRIV",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "JUMBLE CROSSWORD",
+    "53": "JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ HOT TOPICS",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 10",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H-H PHUNT",
+    "83": "MYST HOT TOPICS"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "MEME": {
+   "label": "MAXX Emerald V8.04/V8.05/V8.20",
+   "source": "analysis/p16/MAXX_Emerald_V8.04_-_Original.GAMEDATA.DAT",
+   "sha256": "b8d21cd1d3439fa8",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HEAD-TO-HEAD PHUNT",
+    "35": "TRIP-FLIP",
+    "36": "HEAD-TO-HEAD TRIV",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "SKAT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 10",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SNUBBEL",
+    "82": "EROTIC H-H PHUNT",
+    "83": "HEAD-HEAD SNAPSHOT"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "MEME2": {
+   "label": "MAXX Emerald 2 V9.00/V9.01",
+   "source": "analysis/p16/MAXX_Emerald_2_V9.00_-_Played.GAMEDATA.DAT",
+   "sha256": "c7d6fd6d048e8137",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HEAD-TO-HEAD PHUNT",
+    "35": "TRIP-FLIP",
+    "36": "HEAD-TO-HEAD TRIV",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "JUMBLE CROSSWORD",
+    "53": "JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ HOT TOPICS",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 10",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H-H PHUNT",
+    "83": "MYST HOT TOPICS"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "F2002": {
+   "label": "Force 2002",
+   "source": "analysis/p21/gamedata/F2002.GAMEDATA.DAT",
+   "sha256": "dbad2e2cde942a63",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCH 'EM UP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUIK CELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "MERRY MAIDENS",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21X",
+    "31": "FUNKY MONKEY",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "HEAD-TO-HEAD PHUNT",
+    "35": "TRIP-FLIP",
+    "36": "HEAD-TO-HEAD TRIV",
+    "37": "3 BLIND MICE",
+    "38": "ROUTE 66",
+    "39": "SUPER RTE 66",
+    "40": "FAST LANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MAD",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILE HIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "BASEBALL",
+    "53": "DRIVE",
+    "54": "ASTRO JOE",
+    "55": "JUMBLE SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "SKAT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 10",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SNUBBEL",
+    "82": "EROTIC H-H PHUNT",
+    "83": "HEAD-HEAD SNAPSHOT"
+   },
+   "flags": {
+    "9": [
+     "h2h"
+    ]
+   }
+  },
+  "RUBY": {
+   "label": "MAXX Ruby",
+   "source": "analysis/p21/gamedata/RUBY.gamedata.dat",
+   "sha256": "731b5d281fdca96e",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 BLIND MICE",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC WJUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "WJUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "REVERSETRIV",
+    "105": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ]
+   }
+  },
+  "RUBY2": {
+   "label": "MAXX Ruby 2 V11.00",
+   "source": "analysis/p21/gamedata/RUBY2.gamedata.dat",
+   "sha256": "067147370d1490c6",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 BLIND MICE",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC WJUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "WJUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "REVERSETRIV",
+    "105": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ]
+   }
+  },
+  "F2003": {
+   "label": "Force 2003 v10.09",
+   "source": "analysis/p21/gamedata/F2003.gamedata.dat",
+   "sha256": "47d363647ef84e3c",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 BLIND MICE",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC WJUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "WJUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ]
+   }
+  },
+  "F2003_5": {
+   "label": "Force 2003.5 v11.00",
+   "source": "analysis/p21/gamedata/F2003_5.gamedata.dat",
+   "sha256": "731b5d281fdca96e",
+   "names": {
+    "0": "SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 BLIND MICE",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC WJUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "WJUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "REVERSETRIV",
+    "105": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ]
+   }
+  },
+  "SAPP": {
+   "label": "MAXX Sapphire V12.01",
+   "source": "analysis/p14/MAXX_Sapphire_V12.01_-_Played.gamedata.dat",
+   "sha256": "8cdf1e095e74a249",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKEY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "6": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ]
+   }
+  },
+  "SAPP2": {
+   "label": "MAXX Sapphire 2 V13.00",
+   "source": "analysis/p14/MAXX_Sapphire_2_V13.00_-_Played_Keyless.gamedata.dat",
+   "sha256": "d3985075c942d0f2",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "3": [
+     "prize_zone2"
+    ],
+    "6": [
+     "prize_zone2"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ]
+   }
+  },
+  "F2004": {
+   "label": "Force 2004 v12.00",
+   "source": "analysis/p19/bin/F2004/gamedata.dat",
+   "sha256": "2f66df20957ed531",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKEY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "6": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "34": [
+     "h2h"
+    ],
+    "36": [
+     "h2h"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "82": [
+     "h2h"
+    ],
+    "84": [
+     "h2h"
+    ],
+    "85": [
+     "h2h"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ]
+   }
+  },
+  "JADE": {
+   "label": "MAXX Jade V14.00",
+   "source": "analysis/p14/MAXX_Jade_V14.00_-_New.gamedata.dat",
+   "sha256": "c2bb22662bee2507",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "SYMBOL BOX DROP",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "8": [
+     "force_only"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "42": [
+     "force_only"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "46": [
+     "force_only"
+    ],
+    "47": [
+     "force_only"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "68": [
+     "force_only"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only"
+    ],
+    "146": [
+     "force_only"
+    ],
+    "147": [
+     "force_only"
+    ],
+    "152": [
+     "force_only"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "161": [
+     "force_only"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ]
+   }
+  },
+  "JADE1421": {
+   "label": "MAXX Jade V14.21",
+   "source": "analysis/p14/MAXX_Jade_V14.21_-_Keyless_Played.gamedata.dat",
+   "sha256": "60d3cba4bfd1a6fa",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "SYMBOL BOX DROP",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "TOUCHTUNES! (placeholder only)",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "8": [
+     "force_only"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "42": [
+     "force_only"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "46": [
+     "force_only"
+    ],
+    "47": [
+     "force_only"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "68": [
+     "force_only"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only"
+    ],
+    "146": [
+     "force_only"
+    ],
+    "147": [
+     "force_only"
+    ],
+    "152": [
+     "force_only"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "161": [
+     "force_only"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ]
+   }
+  },
+  "JADE2": {
+   "label": "MAXX Jade 2 V15.10",
+   "source": "analysis/p14/MAXX_Jade_2_V15.10_-_New.gamedata.dat",
+   "sha256": "a09de45ee877cc1d",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "MOTOR MATCH",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "TOUCHTUNES! (placeholder only)",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "TEXAS HOLD 'EM",
+    "179": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "8": [
+     "force_only",
+     "continuable"
+    ],
+    "9": [
+     "continuable"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "14": [
+     "continuable"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "17": [
+     "continuable"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "19": [
+     "continuable"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2",
+     "continuable"
+    ],
+    "21": [
+     "continuable"
+    ],
+    "22": [
+     "continuable"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "26": [
+     "continuable"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only",
+     "continuable"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "38": [
+     "continuable"
+    ],
+    "40": [
+     "continuable"
+    ],
+    "42": [
+     "force_only",
+     "continuable"
+    ],
+    "43": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "45": [
+     "continuable"
+    ],
+    "46": [
+     "force_only",
+     "continuable"
+    ],
+    "47": [
+     "force_only",
+     "continuable"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "65": [
+     "continuable"
+    ],
+    "66": [
+     "continuable"
+    ],
+    "68": [
+     "force_only",
+     "continuable"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "76": [
+     "continuable"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only",
+     "continuable"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only",
+     "continuable"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only",
+     "continuable"
+    ],
+    "146": [
+     "force_only",
+     "continuable"
+    ],
+    "147": [
+     "force_only",
+     "continuable"
+    ],
+    "152": [
+     "force_only",
+     "continuable"
+    ],
+    "153": [
+     "continuable"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only",
+     "continuable"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "158": [
+     "continuable"
+    ],
+    "160": [
+     "continuable"
+    ],
+    "161": [
+     "force_only",
+     "continuable"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ],
+    "171": [
+     "continuable"
+    ],
+    "174": [
+     "continuable"
+    ],
+    "178": [
+     "continuable"
+    ]
+   }
+  },
+  "F2005": {
+   "label": "Force 2005 v14.00",
+   "source": "analysis/p19/bin/F2005/gamedata.dat",
+   "sha256": "c2bb22662bee2507",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "SYMBOL BOX DROP",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "8": [
+     "force_only"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "42": [
+     "force_only"
+    ],
+    "43": [
+     "prize_zone2"
+    ],
+    "46": [
+     "force_only"
+    ],
+    "47": [
+     "force_only"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "68": [
+     "force_only"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only"
+    ],
+    "146": [
+     "force_only"
+    ],
+    "147": [
+     "force_only"
+    ],
+    "152": [
+     "force_only"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "161": [
+     "force_only"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ]
+   }
+  },
+  "F2005_5": {
+   "label": "Force 2005.5 v15.10",
+   "source": "analysis/p19/bin/F2005_5/gamedata.dat",
+   "sha256": "a09de45ee877cc1d",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TMAXX MERIT-THON 7",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "TMAXX MERIT-THON 20",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "MOTOR MATCH",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "TOUCHTUNES! (placeholder only)",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "TEXAS HOLD 'EM",
+    "179": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "8": [
+     "force_only",
+     "continuable"
+    ],
+    "9": [
+     "continuable"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "14": [
+     "continuable"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "17": [
+     "continuable"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "19": [
+     "continuable"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2",
+     "continuable"
+    ],
+    "21": [
+     "continuable"
+    ],
+    "22": [
+     "continuable"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "26": [
+     "continuable"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only",
+     "continuable"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "38": [
+     "continuable"
+    ],
+    "40": [
+     "continuable"
+    ],
+    "42": [
+     "force_only",
+     "continuable"
+    ],
+    "43": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "45": [
+     "continuable"
+    ],
+    "46": [
+     "force_only",
+     "continuable"
+    ],
+    "47": [
+     "force_only",
+     "continuable"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "65": [
+     "continuable"
+    ],
+    "66": [
+     "continuable"
+    ],
+    "68": [
+     "force_only",
+     "continuable"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "76": [
+     "continuable"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only",
+     "continuable"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only",
+     "continuable"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "144": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only",
+     "continuable"
+    ],
+    "146": [
+     "force_only",
+     "continuable"
+    ],
+    "147": [
+     "force_only",
+     "continuable"
+    ],
+    "152": [
+     "force_only",
+     "continuable"
+    ],
+    "153": [
+     "continuable"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only",
+     "continuable"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "158": [
+     "continuable"
+    ],
+    "160": [
+     "continuable"
+    ],
+    "161": [
+     "force_only",
+     "continuable"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ],
+    "171": [
+     "continuable"
+    ],
+    "174": [
+     "continuable"
+    ],
+    "178": [
+     "continuable"
+    ]
+   }
+  },
+  "CROWN": {
+   "label": "MAXX Crown V16.10",
+   "source": "analysis/p14/MAXX_Crown_V16.10_-_New.gamedata.dat",
+   "sha256": "c24970467e1b57a3",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA",
+    "4": "MATCHEMUP",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CARD RAIDERS",
+    "9": "STRIPCLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "TRIPFLIP",
+    "36": "H2H TRIVIA",
+    "37": "3 SOME",
+    "38": "LONESTAR",
+    "39": "SUPER LONESTAR",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "DDC JUMBLEX",
+    "53": "DDC JUMBLE",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "BOX GLIDE",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "EROTIC MATCH'EM UP",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "EROTIC H2H PHUNT",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "LET IT RIDE TRIVIA",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "JUMBLEX",
+    "98": "JUMBLE",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "TAKE IT BACK",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "WORDSERVE",
+    "110": "Rack 'Em",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PREM EROTIC PHOTOHUNT",
+    "114": "PREM EROTIC LOOKOUT",
+    "115": "PREM EROTIC BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "STRATEGY MERIT-THON",
+    "119": "QUIZ MERIT-THON",
+    "120": "MULTI MERIT-THON",
+    "121": "QUIZ MERIT-THON",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "PRO SPORTS PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON 1",
+    "126": "TMAXX MERIT-THON 2",
+    "127": "TMAXX MERIT-THON 3",
+    "128": "TMAXX MERIT-THON 4",
+    "129": "TMAXX MERIT-THON 5",
+    "130": "TMAXX MERIT-THON 6",
+    "131": "TRILOGY MERIT-THON",
+    "132": "TMAXX MERIT-THON 8",
+    "133": "TMAXX MERIT-THON 9",
+    "134": "TMAXX MERIT-THON 10",
+    "135": "TMAXX MERIT-THON 11",
+    "136": "TMAXX MERIT-THON 12",
+    "137": "TMAXX MERIT-THON 13",
+    "138": "TMAXX MERIT-THON 14",
+    "139": "TMAXX MERIT-THON 15",
+    "140": "TMAXX MERIT-THON 16",
+    "141": "TMAXX MERIT-THON 17",
+    "142": "TMAXX MERIT-THON 18",
+    "143": "TMAXX MERIT-THON 19",
+    "144": "UNO 52 POKER",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CONQUEST",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "WORD FEVER",
+    "155": "Rack 'Em 9 Ball",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "MOTOR MATCH",
+    "161": "MegaTouch Mini-Golf",
+    "162": "Fantasy Sports FootBall - unused game id",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Classic Fantasy Sports",
+    "172": "TOUCHTUNES! (placeholder only)",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "TEXAS HOLD 'EM",
+    "179": "congafish",
+    "180": "fasttraxx",
+    "181": "sideshooter",
+    "182": "videowhiz",
+    "183": "unused1",
+    "184": "unused2",
+    "185": "feedingfrosty",
+    "186": "unused3",
+    "187": "stickerbook",
+    "188": "tapper",
+    "189": "unused4",
+    "190": "hometownboxxi",
+    "191": "unused5",
+    "192": "fmvboxxi",
+    "193": "SPORTS MERIT-THON",
+    "194": "MENUITAIRE! (placeholder only)"
+   },
+   "flags": {
+    "0": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "3": [
+     "prize_zone2"
+    ],
+    "5": [
+     "force_only"
+    ],
+    "6": [
+     "prize_zone2",
+     "card_back_ads"
+    ],
+    "9": [
+     "continuable"
+    ],
+    "10": [
+     "card_back_ads"
+    ],
+    "13": [
+     "prize_zone2"
+    ],
+    "14": [
+     "continuable"
+    ],
+    "15": [
+     "prize_zone2"
+    ],
+    "16": [
+     "prize_zone2"
+    ],
+    "17": [
+     "continuable"
+    ],
+    "18": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "19": [
+     "continuable"
+    ],
+    "20": [
+     "force_maxx_variant",
+     "prize_zone2",
+     "continuable"
+    ],
+    "21": [
+     "continuable"
+    ],
+    "22": [
+     "continuable"
+    ],
+    "25": [
+     "force_maxx_variant",
+     "prize_zone2"
+    ],
+    "26": [
+     "continuable"
+    ],
+    "29": [
+     "prize_zone2"
+    ],
+    "30": [
+     "prize_zone2"
+    ],
+    "32": [
+     "force_only",
+     "continuable"
+    ],
+    "34": [
+     "h2h",
+     "force_only"
+    ],
+    "35": [
+     "force_only"
+    ],
+    "36": [
+     "h2h",
+     "force_only"
+    ],
+    "38": [
+     "continuable"
+    ],
+    "40": [
+     "continuable"
+    ],
+    "42": [
+     "force_only",
+     "continuable"
+    ],
+    "43": [
+     "prize_zone2",
+     "continuable"
+    ],
+    "45": [
+     "continuable"
+    ],
+    "46": [
+     "force_only",
+     "continuable"
+    ],
+    "47": [
+     "force_only",
+     "continuable"
+    ],
+    "54": [
+     "force_only"
+    ],
+    "59": [
+     "prize_zone2"
+    ],
+    "65": [
+     "continuable"
+    ],
+    "66": [
+     "continuable"
+    ],
+    "68": [
+     "force_only",
+     "continuable"
+    ],
+    "72": [
+     "force_only"
+    ],
+    "74": [
+     "force_only"
+    ],
+    "76": [
+     "continuable"
+    ],
+    "77": [
+     "force_maxx_variant"
+    ],
+    "78": [
+     "force_only",
+     "continuable"
+    ],
+    "81": [
+     "force_only"
+    ],
+    "82": [
+     "h2h",
+     "force_only"
+    ],
+    "84": [
+     "h2h",
+     "force_only"
+    ],
+    "85": [
+     "h2h",
+     "force_only"
+    ],
+    "87": [
+     "force_only"
+    ],
+    "91": [
+     "force_only"
+    ],
+    "92": [
+     "prize_zone2"
+    ],
+    "93": [
+     "h2h",
+     "pro_sports",
+     "force_only"
+    ],
+    "94": [
+     "pro_sports"
+    ],
+    "95": [
+     "pro_sports"
+    ],
+    "96": [
+     "pro_sports"
+    ],
+    "101": [
+     "prize_zone2"
+    ],
+    "103": [
+     "prize_zone2"
+    ],
+    "107": [
+     "prize_zone2"
+    ],
+    "108": [
+     "prize_zone2"
+    ],
+    "109": [
+     "force_only"
+    ],
+    "110": [
+     "force_only",
+     "continuable"
+    ],
+    "111": [
+     "force_only"
+    ],
+    "113": [
+     "force_maxx_variant"
+    ],
+    "117": [
+     "meritthon"
+    ],
+    "118": [
+     "meritthon"
+    ],
+    "119": [
+     "meritthon"
+    ],
+    "120": [
+     "meritthon",
+     "force_only"
+    ],
+    "121": [
+     "meritthon"
+    ],
+    "122": [
+     "prize_zone2"
+    ],
+    "123": [
+     "force_only"
+    ],
+    "124": [
+     "pro_sports"
+    ],
+    "125": [
+     "meritthon"
+    ],
+    "126": [
+     "meritthon"
+    ],
+    "127": [
+     "meritthon"
+    ],
+    "128": [
+     "meritthon"
+    ],
+    "129": [
+     "meritthon"
+    ],
+    "130": [
+     "meritthon"
+    ],
+    "131": [
+     "meritthon"
+    ],
+    "132": [
+     "meritthon"
+    ],
+    "133": [
+     "meritthon"
+    ],
+    "134": [
+     "meritthon"
+    ],
+    "135": [
+     "meritthon"
+    ],
+    "136": [
+     "meritthon"
+    ],
+    "137": [
+     "meritthon"
+    ],
+    "138": [
+     "meritthon"
+    ],
+    "139": [
+     "meritthon"
+    ],
+    "140": [
+     "meritthon"
+    ],
+    "141": [
+     "meritthon"
+    ],
+    "142": [
+     "meritthon"
+    ],
+    "143": [
+     "meritthon"
+    ],
+    "145": [
+     "force_only",
+     "continuable"
+    ],
+    "146": [
+     "force_only",
+     "continuable"
+    ],
+    "147": [
+     "force_only",
+     "continuable"
+    ],
+    "149": [
+     "force_only",
+     "continuable"
+    ],
+    "152": [
+     "force_only",
+     "continuable"
+    ],
+    "153": [
+     "continuable"
+    ],
+    "154": [
+     "prize_zone2"
+    ],
+    "155": [
+     "force_only",
+     "continuable"
+    ],
+    "156": [
+     "meritthon"
+    ],
+    "158": [
+     "continuable"
+    ],
+    "160": [
+     "continuable"
+    ],
+    "161": [
+     "force_only",
+     "continuable"
+    ],
+    "164": [
+     "force_maxx_variant"
+    ],
+    "171": [
+     "continuable"
+    ],
+    "174": [
+     "continuable"
+    ],
+    "178": [
+     "continuable"
+    ],
+    "193": [
+     "meritthon"
+    ]
+   }
+  },
+  "ION4": {
+   "label": "ION 2007-2014 (game-id enum)",
+   "source": "scripts/data/games.json ION",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA WHIZ",
+    "4": "Match (retired)",
+    "5": "Memoree (retired)",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIP CLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "Pileon (retired)",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "Triples (retired)",
+    "33": "POWER TRIVIA",
+    "34": "H2Hphunt (retired)",
+    "35": "Tflip (retired)",
+    "36": "H2H TRIVIA",
+    "37": "Sflip (retired)",
+    "38": "Ssol (retired)",
+    "39": "Spsol (retired)",
+    "40": "Squikc (retired)",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "Pilehigh (retired)",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "Ddcjumblex (retired)",
+    "53": "Ddcwjumble (retired)",
+    "54": "Snowball (retired)",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "Gemswipe (retired)",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "Flash7 (retired)",
+    "73": "Ematch (retired)",
+    "74": "Ememoree (retired)",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "Epixmix (retired)",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "Eh2Hphunt (retired)",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2Hjumblesafari (retired)",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "Lirpoker (retired)",
+    "89": "Lirtrivia (retired)",
+    "90": "Skat (retired)",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "Pssafari (retired)",
+    "96": "Psquizshow (retired)",
+    "97": "Jumblex (retired)",
+    "98": "Wjumble (retired)",
+    "99": "Tibtrivia (retired)",
+    "100": "Tibpoker (retired)",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "Magiccharms Le (retired)",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "Wordpong (retired)",
+    "110": "RACK 'EM",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PENTHOUSE PHOTOHUNT",
+    "114": "PENTHOUSE EROTIC LOOKOUT",
+    "115": "PENTHOUSE BOXXI",
+    "116": "POM BOXXI",
+    "117": "Cardmerithon (retired)",
+    "118": "Strategymerithon (retired)",
+    "119": "QUIZ MERIT-THON",
+    "120": "Multmerithon (retired)",
+    "121": "QUIZ MERIT-THON 2",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "P.S. PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON",
+    "126": "BW MINIGOLF",
+    "127": "BW BASKETBALL",
+    "128": "STRIKE CITY",
+    "129": "SKEEBALL",
+    "130": "MONKEY BASH",
+    "131": "TRILOGY MERIT-THON",
+    "132": "BREAKIN' BRICKS",
+    "133": "ATW MINI-GOLF",
+    "134": "SPACE MINI-GOLF",
+    "135": "PACK RABBIT",
+    "136": "TUXEDO RUN",
+    "137": "Fmvstrip (retired)",
+    "138": "SUDOKU6",
+    "139": "DRAGGLE DROP",
+    "140": "LUXOR",
+    "141": "CHUG MONKEY",
+    "142": "HOME RUN DERBY",
+    "143": "OFFICE BASH",
+    "144": "Uno Poker (retired)",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "Wordfever (retired)",
+    "155": "RACK 'EM 9 BALL",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "MOTOR MATCH",
+    "161": "MEGATOUCH MINI-GOLF",
+    "162": "Fantasy Sports FootBall - unusedfsports-unused",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Obsolete 171",
+    "172": "TOUCHTUNES",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "TEXAS HOLD 'EM",
+    "179": "CONGA FISH",
+    "180": "FAST TRAXX",
+    "181": "SPACE CRUSADER",
+    "182": "VIDEO WHIZ",
+    "183": "HOLLYWOOD MATCH",
+    "184": "3Drescue",
+    "185": "FEEDING FROSTY",
+    "186": "Feedingfrenzy Kid",
+    "187": "STICKER BOOK",
+    "188": "PUBMASTER",
+    "189": "18Holegolf",
+    "190": "HOMETOWN BOXXI",
+    "191": "BRAIN QUEST",
+    "192": "Pent Boxxi (retired)",
+    "193": "SPORTS MERIT-THON",
+    "194": "AMILINK",
+    "195": "Uno (retired)",
+    "196": "COCO LOCO",
+    "197": "ZENWORD",
+    "198": "PHOTO POP",
+    "199": "DODGE BULL",
+    "200": "OUTLAW POKER",
+    "201": "CATTLE DRIVE",
+    "202": "PILE-ON",
+    "203": "TEXAS HOLD 'EM",
+    "204": "BEER PONG",
+    "205": "BEER PONG 21",
+    "206": "CHAINZ 2",
+    "207": "LUXOR 2",
+    "208": "INK RALLY",
+    "209": "TRICKY FISH",
+    "210": "JOLLY PIRATES",
+    "211": "KIDS PHOTO POP",
+    "212": "PH PHOTO POP",
+    "213": "Penthouse Videoxmix (retired)",
+    "214": "LUXOR SURVIVAL",
+    "215": "TRPL CRN BOXING",
+    "216": "SUP CELL CHAOS",
+    "217": "CHAINZ 2 PUZZLER",
+    "218": "LUCKY ELEVENS",
+    "219": "SPIDER KINGS",
+    "220": "13 SPIDERS",
+    "221": "AVALANCHE JACK",
+    "222": "SUPER BOXXI",
+    "223": "DEFLECTION",
+    "224": "MY EX",
+    "225": "TRIVIA WHIZ 2",
+    "226": "SKEE BALL",
+    "227": "BRAIN IN GEAR",
+    "228": "TUG OF WORDS",
+    "229": "LITTLE SHOP",
+    "231": "FIGHT THE LANDLORD",
+    "232": "PHOTO HUNT HD",
+    "233": "SHOW TENDERS COLLEGE COCKTAIL",
+    "234": "Common",
+    "235": "SAMPLE GAME",
+    "236": "JACKPOT CORNER",
+    "237": "FUNKIER MONKEY",
+    "238": "TEXT TWIST 2",
+    "239": "TOUCHDOWN POKER",
+    "240": "STUNT SQUIRREL",
+    "241": "PHILLIES HOTTEST PHUNT HD",
+    "242": "PHILLIES HOTTEST PHUNT 4x3",
+    "243": "FIELD GOAL",
+    "244": "MEGATOUCH MEMORY",
+    "245": "TRIX",
+    "246": "PH CASTLE BANDITS",
+    "247": "ROAD TRIP",
+    "248": "Mystery Phraze Hd",
+    "249": "Spin Card Holdem",
+    "250": "Space Farmer",
+    "251": "Penthouse Photohunt Hd",
+    "252": "GEARZ",
+    "253": "PH SUPER BOXXI",
+    "254": "Zombie Cats",
+    "255": "No Game",
+    "256": "PANTY BANDITS",
+    "257": "BOXXI BLITZ",
+    "258": "Word Dojo 2",
+    "259": "TRIVIA WHIZ JR",
+    "260": "WORDY BIRDS",
+    "261": "MONSTER MADNESS 2",
+    "262": "DINO WHIZ",
+    "263": "PLAY 4",
+    "264": "ROCK MAHJONG",
+    "265": "PHUNT EXP 1",
+    "266": "PHUNT EXP 2",
+    "267": "PIT CREW PAIR EM",
+    "268": "SUPER RUN 21",
+    "269": "MYSTICAL STRIKE",
+    "270": "FLICK CITY ROLLERS",
+    "271": "MONKEY BASH WORLD TOUR",
+    "272": "BOXXI 2",
+    "273": "MONSTER MADNESS CHAOS",
+    "274": "FLICK CITY SLUGGERS",
+    "275": "Hunks Super Boxxi",
+    "276": "Hunks Photo Hunt",
+    "277": "Hunks Card Bandits",
+    "278": "PHUNT GRIMM FAIRY TALES",
+    "279": "BOTTLE TOP DROP",
+    "280": "PHOTO HUNT EXPEDITION 3",
+    "281": "FINAL TABLE 5 DICE POKER",
+    "283": "MILKY WAY MINI GOLF",
+    "284": "CARDBOARD CHAOS ZOMBIE EDITION",
+    "285": "ICE RIFT",
+    "286": "TRI TOWERS 2",
+    "287": "AIR GUARDIAN ESCAPE",
+    "288": "HUNKS 5 DICE POKER",
+    "289": "PENTHOUSE 5 DICE POKER",
+    "290": "FINAL TABLE BLACK JACK",
+    "291": "CLOSE THE CLOCK",
+    "292": "TRI-CASTLES 2",
+    "293": "Max Used Game Range Id",
+    "300": "Max Games"
+   },
+   "flags": {}
+  },
+  "FORCE4": {
+   "label": "Force 2007-2011 (game-id enum, gaps from ION)",
+   "source": "scripts/data/games.json FORCE + ION",
+   "names": {
+    "0": "GREAT SOLITAIRE",
+    "1": "RUN21",
+    "2": "ROYAL FLASH",
+    "3": "TRIVIA WHIZ",
+    "4": "Match (retired)",
+    "5": "MEMOREE",
+    "6": "TRI-TOWERS",
+    "7": "FOURPLAY",
+    "8": "CONQUEST",
+    "9": "STRIP CLUB",
+    "10": "ELEVEN UP",
+    "11": "MYST. PHRAZE",
+    "12": "HOOP JONES",
+    "13": "ZIP21",
+    "14": "CHECKERZ",
+    "15": "QUIK MATCH",
+    "16": "PWR SOLITAIRE",
+    "17": "PIX MIX",
+    "18": "PHOTOHUNT",
+    "19": "QUICKCELL",
+    "20": "TAI-PLAY",
+    "21": "GOLF",
+    "22": "TENNIS",
+    "23": "PUCK SHOT",
+    "24": "PILE-ON",
+    "25": "TAKE 2",
+    "26": "DBL SOLITAIRE",
+    "27": "LINK TRIVIA",
+    "28": "TRI-CASTLES",
+    "29": "ELEVEN BALL",
+    "30": "CHUG21",
+    "31": "PAIR OFF",
+    "32": "HOOTER",
+    "33": "POWER TRIVIA",
+    "34": "H2H PHUNT",
+    "35": "Tflip (retired)",
+    "36": "H2H TRIVIA",
+    "37": "Sflip (retired)",
+    "38": "LONESTAR",
+    "39": "Spsol (retired)",
+    "40": "FASTLANE",
+    "41": "SNAPSHOT",
+    "42": "LOOK OUT",
+    "43": "MONSTER MADNESS",
+    "44": "GOOOAL",
+    "45": "AIR SHOT",
+    "46": "PHARAOH'S NINE",
+    "47": "PILEHIGH",
+    "48": "WILD 8's",
+    "49": "QB ZONE",
+    "50": "WILD APE's",
+    "51": "QUINTZEE",
+    "52": "Ddcjumblex (retired)",
+    "53": "Ddcwjumble (retired)",
+    "54": "ASTRO JOE",
+    "55": "WORD SAFARI",
+    "56": "OUTER SPADES",
+    "57": "CRAZY HEARTS",
+    "58": "QUIZ SHOW",
+    "59": "BOXXI",
+    "60": "FOXY BOXXI",
+    "61": "MOONDROP",
+    "62": "EUCHRE NIGHTS",
+    "63": "BATTLE 31",
+    "64": "Gemswipe (retired)",
+    "65": "BACK JAMMIN",
+    "66": "QUIK CHESS",
+    "67": "GENDER BENDER",
+    "68": "BOWLING",
+    "69": "QUIZ SHOW HT",
+    "70": "CHIPAWAY",
+    "71": "SPEED DRAW",
+    "72": "FLASH 7",
+    "73": "Ematch (retired)",
+    "74": "EROTIC MEMOREE",
+    "75": "EROTIC MYST. PHRAZE",
+    "76": "EROTIC PIX MIX",
+    "77": "EROTIC PHOTOHUNT",
+    "78": "EROTIC LOOK OUT",
+    "79": "EROTIC TRIVIA",
+    "80": "EROTIC POWER TRIVIA",
+    "81": "SUPER SNUBBEL",
+    "82": "Eh2Hphunt (retired)",
+    "83": "MYST. PHRAZE HT",
+    "84": "H2H GENDERBENDER",
+    "85": "H2H SAFARI",
+    "86": "WORDSTER",
+    "87": "ESP RUN",
+    "88": "LET IT RIDE POKER",
+    "89": "Lirtrivia (retired)",
+    "90": "SKAT",
+    "91": "ESP WAR",
+    "92": "QSHOT",
+    "93": "PRO SPORTS H2H TRIVIA",
+    "94": "PRO-SPORTS MYST. PHRAZE",
+    "95": "PRO SPORTS WORD SAFARI",
+    "96": "PRO SPORTS QUIZ SHOW",
+    "97": "Jumblex (retired)",
+    "98": "Wjumble (retired)",
+    "99": "TAKE IT BACK TRIVIA",
+    "100": "Tibpoker (retired)",
+    "101": "MAGIC CHARMS",
+    "102": "BIGTIME ROLLER",
+    "103": "CARD BANDITS",
+    "104": "TRIVIA TREASURE",
+    "105": "MAGIC CHARMS LE",
+    "106": "GINRUMMY",
+    "107": "CASTLE BANDITS",
+    "108": "WORD DOJO",
+    "109": "Wordpong (retired)",
+    "110": "RACK 'EM",
+    "111": "DOMINO 5",
+    "112": "BATTLE COMMAND",
+    "113": "PENTHOUSE PHOTOHUNT",
+    "114": "PENTHOUSE EROTIC LOOKOUT",
+    "115": "PENTHOUSE BOXXI",
+    "116": "POM BOXXI",
+    "117": "CARD MERIT-THON",
+    "118": "Strategymerithon (retired)",
+    "119": "QUIZ MERIT-THON",
+    "120": "Multmerithon (retired)",
+    "121": "QUIZ MERIT-THON 2",
+    "122": "FUNKY MONKEY",
+    "123": "PHARAOH'S FORTUNE",
+    "124": "P.S. PHARAOH'S FORTUNE",
+    "125": "TMAXX MERIT-THON",
+    "126": "BW MINIGOLF",
+    "127": "BW BASKETBALL",
+    "128": "STRIKE CITY",
+    "129": "SKEEBALL",
+    "130": "MONKEY BASH",
+    "131": "TRILOGY MERIT-THON",
+    "132": "BREAKIN' BRICKS",
+    "133": "ATW MINI-GOLF",
+    "134": "SPACE MINI-GOLF",
+    "135": "PACK RABBIT",
+    "136": "TUXEDO RUN",
+    "137": "PENTHOUSE FMV STRIP",
+    "138": "SUDOKU6",
+    "139": "DRAGGLE DROP",
+    "140": "LUXOR",
+    "141": "CHUG MONKEY",
+    "142": "HOME RUN DERBY",
+    "143": "OFFICE BASH",
+    "144": "UNO 52 POKER",
+    "145": "KIDS' KOLORTIME",
+    "146": "MEGATOUCH SWITCHEROO",
+    "147": "KIDS' PHOTO HUNT",
+    "148": "TIC A TAC 21",
+    "149": "CARD RAIDERS",
+    "150": "CRYPT RAIDERS",
+    "151": "TIC TAC TRIVIA",
+    "152": "METEOR SHOWER",
+    "153": "VINCI-BALL",
+    "154": "Wordfever (retired)",
+    "155": "RACK 'EM 9 BALL",
+    "156": "PUZZLE MERIT-THON",
+    "157": "TV GUIDE CROSSWORDS",
+    "158": "RACE POKER",
+    "159": "BOX DROP",
+    "160": "MOTOR MATCH",
+    "161": "MEGATOUCH MINI-GOLF",
+    "162": "Fantasy Sports FootBall - unusedfsports-unused",
+    "163": "PREM EROTIC PIXMIX",
+    "164": "CHIPPENDALES PHOTOHUNT",
+    "165": "CHIPPENDALES LOOKOUT",
+    "166": "CHIPPENDALES BOXXI",
+    "167": "CHIPPENDALES PIXMIX",
+    "168": "COM BOXXI",
+    "169": "EROTIC CARD BANDITS",
+    "170": "EROTIC CASTLE BANDITS",
+    "171": "Obsolete 171",
+    "172": "TOUCHTUNES",
+    "173": "CHAIN EROTIC BOXXI",
+    "174": "CHAIN EROTIC LOOKOUT",
+    "175": "CHAIN EROTIC PIXMIX",
+    "176": "CHAIN CARD BANDITS",
+    "177": "CHAIN TRIVIA",
+    "178": "TEXAS HOLD 'EM",
+    "179": "CONGA FISH",
+    "180": "FAST TRAXX",
+    "181": "SPACE CRUSADER",
+    "182": "VIDEO WHIZ",
+    "183": "HOLLYWOOD MATCH",
+    "184": "3Drescue",
+    "185": "FEEDING FROSTY",
+    "186": "Feedingfrenzy Kid",
+    "187": "STICKER BOOK",
+    "188": "PUBMASTER",
+    "189": "18Holegolf",
+    "190": "HOMETOWN BOXXI",
+    "191": "BRAIN QUEST",
+    "192": "Pent Boxxi (retired)",
+    "193": "SPORTS MERIT-THON",
+    "194": "AMILINK",
+    "195": "UNO",
+    "196": "COCO LOCO",
+    "197": "ZENWORD",
+    "198": "PHOTO POP",
+    "199": "DODGE BULL",
+    "200": "OUTLAW POKER",
+    "201": "CATTLE DRIVE",
+    "202": "PILE-ON",
+    "203": "TEXAS HOLD 'EM",
+    "204": "BEER PONG",
+    "205": "BEER PONG 21",
+    "206": "CHAINZ 2",
+    "207": "LUXOR 2",
+    "208": "INK RALLY",
+    "209": "TRICKY FISH",
+    "210": "JOLLY PIRATES",
+    "211": "KIDS PHOTO POP",
+    "212": "PH PHOTO POP",
+    "213": "VIDEO MIX",
+    "214": "LUXOR SURVIVAL",
+    "215": "TRPL CRN BOXING",
+    "216": "SUP CELL CHAOS",
+    "217": "CHAINZ 2 PUZZLER",
+    "218": "LUCKY ELEVENS",
+    "219": "SPIDER KINGS",
+    "220": "13 SPIDERS",
+    "221": "AVALANCHE JACK",
+    "222": "SUPER BOXXI",
+    "223": "DEFLECTION",
+    "224": "MY EX",
+    "225": "TRIVIA WHIZ 2",
+    "226": "SKEE BALL",
+    "227": "BRAIN IN GEAR",
+    "228": "TUG OF WORDS",
+    "229": "LITTLE SHOP",
+    "231": "FIGHT THE LANDLORD",
+    "232": "PHOTO HUNT HD",
+    "233": "SHOW TENDERS COLLEGE COCKTAIL",
+    "234": "Common",
+    "235": "SAMPLE GAME",
+    "236": "JACKPOT CORNER",
+    "237": "FUNKIER MONKEY",
+    "238": "TEXT TWIST 2",
+    "239": "TOUCHDOWN POKER",
+    "240": "STUNT SQUIRREL",
+    "241": "PHILLIES HOTTEST PHUNT HD",
+    "242": "PHILLIES HOTTEST PHUNT 4x3",
+    "243": "FIELD GOAL",
+    "244": "MEGATOUCH MEMORY",
+    "245": "TRIX",
+    "246": "PH CASTLE BANDITS",
+    "247": "ROAD TRIP",
+    "248": "Mystery Phraze Hd",
+    "249": "Spin Card Holdem",
+    "250": "Space Farmer",
+    "251": "Penthouse Photohunt Hd",
+    "252": "GEARZ",
+    "253": "PH SUPER BOXXI",
+    "254": "Zombie Cats",
+    "255": "No Game",
+    "256": "PANTY BANDITS",
+    "257": "BOXXI BLITZ",
+    "258": "Word Dojo 2",
+    "259": "TRIVIA WHIZ JR",
+    "260": "WORDY BIRDS",
+    "261": "MONSTER MADNESS 2",
+    "262": "DINO WHIZ",
+    "263": "PLAY 4",
+    "264": "ROCK MAHJONG",
+    "265": "PHUNT EXP 1",
+    "266": "PHUNT EXP 2",
+    "267": "PIT CREW PAIR EM",
+    "268": "SUPER RUN 21",
+    "269": "MYSTICAL STRIKE",
+    "270": "FLICK CITY ROLLERS",
+    "271": "MONKEY BASH WORLD TOUR",
+    "272": "BOXXI 2",
+    "273": "MONSTER MADNESS CHAOS",
+    "274": "FLICK CITY SLUGGERS",
+    "275": "Hunks Super Boxxi",
+    "276": "Hunks Photo Hunt",
+    "277": "Hunks Card Bandits",
+    "278": "PHUNT GRIMM FAIRY TALES",
+    "279": "BOTTLE TOP DROP",
+    "280": "PHOTO HUNT EXPEDITION 3",
+    "281": "FINAL TABLE 5 DICE POKER",
+    "283": "MILKY WAY MINI GOLF",
+    "284": "CARDBOARD CHAOS ZOMBIE EDITION",
+    "285": "ICE RIFT",
+    "286": "TRI TOWERS 2",
+    "287": "AIR GUARDIAN ESCAPE",
+    "288": "HUNKS 5 DICE POKER",
+    "289": "PENTHOUSE 5 DICE POKER",
+    "290": "FINAL TABLE BLACK JACK",
+    "291": "CLOSE THE CLOCK",
+    "292": "TRI-CASTLES 2",
+    "293": "Max Used Game Range Id",
+    "300": "Max Games"
+   },
+   "flags": {}
+  }
+ },
+ "versions": {
+  "XL R1": {
+   "tables": [
+    "M306"
+   ],
+   "nearest": true
+  },
+  "XL Super 5000": {
+   "tables": [
+    "M306"
+   ],
+   "nearest": true
+  },
+  "XL 6000": {
+   "tables": [
+    "M306"
+   ],
+   "nearest": true
+  },
+  "MAXX 3.06": {
+   "tables": [
+    "M306"
+   ],
+   "nearest": false
+  },
+  "XL Gold": {
+   "tables": [
+    "M2K"
+   ],
+   "nearest": true
+  },
+  "MAXX 2K": {
+   "tables": [
+    "M2K",
+    "M2KP"
+   ],
+   "nearest": false
+  },
+  "XL Platinum": {
+   "tables": [
+    "XPLAT"
+   ],
+   "nearest": false
+  },
+  "MAXX Diamond": {
+   "tables": [
+    "MDIA",
+    "MDD"
+   ],
+   "nearest": false
+  },
+  "XL Titanium": {
+   "tables": [
+    "XTIT",
+    "XTIT2"
+   ],
+   "nearest": false
+  },
+  "MAXX Emerald": {
+   "tables": [
+    "MEME",
+    "MEME2"
+   ],
+   "nearest": false
+  },
+  "Force 2002": {
+   "tables": [
+    "F2002"
+   ],
+   "nearest": false
+  },
+  "MAXX Ruby 2": {
+   "tables": [
+    "RUBY2",
+    "RUBY"
+   ],
+   "nearest": false
+  },
+  "Force 2003": {
+   "tables": [
+    "F2003_5",
+    "F2003"
+   ],
+   "nearest": false
+  },
+  "MAXX Sapphire": {
+   "tables": [
+    "SAPP",
+    "SAPP2"
+   ],
+   "nearest": false
+  },
+  "Force 2004": {
+   "tables": [
+    "F2004"
+   ],
+   "nearest": false
+  },
+  "MAXX Jade": {
+   "tables": [
+    "JADE",
+    "JADE1421",
+    "JADE2"
+   ],
+   "nearest": false
+  },
+  "Force 2005": {
+   "tables": [
+    "F2005",
+    "F2005_5"
+   ],
+   "nearest": false
+  },
+  "MAXX Crown": {
+   "tables": [
+    "CROWN"
+   ],
+   "nearest": false
+  },
+  "Force 2006": {
+   "tables": [
+    "CROWN",
+    "F2005_5"
+   ],
+   "nearest": true
+  },
+  "ION 2006": {
+   "tables": [
+    "CROWN"
+   ],
+   "nearest": true
+  },
+  "ION 2007": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2008": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2009": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2010": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2011": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2012": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2013": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "ION 2014": {
+   "tables": [
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "Force 2007": {
+   "tables": [
+    "FORCE4",
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "Force 2008": {
+   "tables": [
+    "FORCE4",
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "Force 2009": {
+   "tables": [
+    "FORCE4",
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "Force 2010": {
+   "tables": [
+    "FORCE4",
+    "ION4"
+   ],
+   "nearest": false
+  },
+  "Force 2011": {
+   "tables": [
+    "FORCE4",
+    "ION4"
+   ],
+   "nearest": false
+  }
+ }
+}
